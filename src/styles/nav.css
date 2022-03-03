@@ -1,0 +1,19 @@
+.ul{
+    list-style-type: none;
+    display: flex;
+    margin-right: 50px;
+}
+.link{
+    text-decoration: none;
+    cursor: pointer;
+    color: gray;
+}
+.li{
+    padding-left: 20px;
+
+    
+}
+.link:hover{
+ text-decoration: underline;
+ color:black;
+}
