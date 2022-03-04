@@ -56,3 +56,24 @@ justify-content: center;
     padding-bottom: 80px;
     padding-left: 250px;
 }
+.video{
+  width: 850px;
+  height: 650px; 
+  display: flex;
+  padding-bottom: 80px;
+  padding-left: 250px;  
+}
+.makieta{
+  display: flex;
+justify-content: center;
+text-decoration: none;
+color: black;
+font-size: 20px;
+padding-bottom: 80px;
+}
+.kartagraficzna{
+  width: 65%;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  padding-left: 250px;
+}
